@@ -1,4 +1,4 @@
-These pdfs comtains the basic of statistic which is important to know before start learning machine learning.
+These pdfs contains the basic of statistic which is important to know before start learning machine learning.
 
 Statistics play a crucial role in machine learning (ML) for several reasons:
 
